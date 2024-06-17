@@ -1,7 +1,7 @@
 - **👋 Hi, I’m Aishwarya-**
 - 👀 I’m interested in computers
 - 🌱**Working as Senior Engineer at Samsung Research Institute India**
-- 💞️ I’m interested in **Backend, Golang, python**
+- 💞️ I’m interested in **Backend- Golang, python, Java**
 - 📫 How to reach me 
       linkedIn - https://www.linkedin.com/in/aishwarya-aishwarya-4127731b0/
 
