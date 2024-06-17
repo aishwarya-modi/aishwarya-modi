@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aishwarya-modi
+- **👋 Hi, I’m Aishwarya-**
 - 👀 I’m interested in computers
-- 🌱Working as Senior Engineer ...
-- 💞️ I’m interested in Backend, Golang, python ...
+- 🌱**Working as Senior Engineer at Samsung Research Institute India**
+- 💞️ I’m interested in **Backend, Golang, python**
 - 📫 How to reach me 
       linkedIn - https://www.linkedin.com/in/aishwarya-aishwarya-4127731b0/
 
